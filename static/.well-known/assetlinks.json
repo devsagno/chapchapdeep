@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.chapfourtechngn.com",
+                 "sha256_cert_fingerprints": ["35:F8:73:0C:2E:18:E4:56:E3:22:9C:A8:3D:3B:56:8D:40:8F:75:4A:05:70:5A:7F:BB:90:26:00:80:C9:7B:0D"] }
+  }]
